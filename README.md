@@ -1,2 +1,2 @@
 # number-game
-fuck you
+hii
